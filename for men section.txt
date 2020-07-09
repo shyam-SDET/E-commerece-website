@@ -1,0 +1,150 @@
+<html>
+<head>
+
+<title>tzay</title>
+
+</head>
+
+<body>
+<p id="sourav"></p>
+
+<table style=width:100%>
+
+<tr>
+<th><a href="buy now @ price rs 4000">buy now @ price rs 4000</a></th>
+<th><a href="buy now @ price rs 3699">buy now @ price rs 3699</a></th>
+<th><a href="buy now @ price rs 4866">buy now @ price rs 4866</a></th>
+<th><a href="buy now @ price rs 1256">buy now @ price rs 1256</a></th>
+
+</tr>
+
+<tr>
+<td><a href="tshirt8.jfif">
+  <img src="tshirt8.jfif"height="300"width="280" alt="tshirt8.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="tshirt7.jfif">
+  <img src="tshirt7.jfif"height="300"width="280" alt="tshirt7.jfif">
+</a></td>
+
+
+
+<td><a href="tshirt6.jfif">
+  <img src="tshirt6.jfif"height="300"width="280" alt="tshirt6.jfif">
+</a></td>
+
+
+
+<td><a href="jeans4.jfif">
+  <img src="jeans4.jfif"height="300"width="280" alt="jeans4.jfif">
+</a></td>
+
+</tr>
+<tr>
+<th><a href="buy now @ price rs 4015">buy now @ price rs 4015</a></th>
+<th><a href="buy now @ price rs 3689">buy now @ price rs 3689</a></th>
+<th><a href="buy now @ price rs 1526">buy now @ price rs 1526</a></th>
+<th><a href="buy now @ price rs 1269">buy now @ price rs 1269</a></th>
+</tr>
+
+<tr>
+<td><a href="1.jpg">
+  <img src="1.jpg"height="300"width="280" alt="">
+</a></td>
+
+ 
+
+
+<td><a href="2.jpg">
+  <img src="2.jpg"height="300"width="280" alt="2.jpg">
+</a></td>
+
+
+
+<td><a href="3.jpg">
+  <img src="3.jpg"height="300"width="280" alt="3.jpg">
+</a></td>
+
+
+
+<td><a href="4.jpg">
+  <img src="4.jpg"height="300"width="280" alt="4.jpg">
+</a></td>
+
+
+
+
+</tr>
+
+<tr>
+<th><a href="buy now @ price rs 1245">buy now @ price rs 1245</a></th>
+<th><a href="buy now @ price rs 789">buy now @ price rs 789</a></th>
+<th><a href="buy now @ price rs 685">buy now @ price rs 685</a></th>
+<th><a href="buy now @ price rs 685">buy now @ price rs 685</a></th>
+</tr>
+
+<tr>
+<td><a href="5.jpg">
+  <img src="5.jpg"height="300"width="280" alt="5.jpg">
+</a></td>
+
+ 
+
+
+<td><a href="6.jfif">
+  <img src="6.jfif"height="300"width="280" alt="6.jfif">
+</a></td>
+
+
+
+<td><a href="7.jfif">
+  <img src="7.jfif"height="300"width="280" alt="7.jfif">
+</a></td>
+
+
+
+<td><a href="8.jfif">
+  <img src="8.jfif"height="300"width="280" alt="8.jfif">
+</a></td>
+</tr>
+<tr>
+<th><a href="buy now @ price rs 1999">buy now @ price rs 1999</a></th>
+<th><a href="buy now @ price rs 2011">buy now @ price rs 2011</a></th>
+<th><a href="buy now @ price rs 987">buy now @ price rs 987</a></th>
+<th><a href="buy now @ price rs 1065">buy now @ price rs 1065</a></th>
+</tr>
+
+<tr>
+<td><a href="9.jfif">
+  <img src="9.jfif"height="300"width="280" alt="9.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="10.jfif">
+  <img src="10.jfif"height="300"width="280" alt="10.jfif">
+</a></td>
+
+
+
+<td><a href="11.jfif">
+  <img src="11.jfif"height="300"width="280" alt="11.jfif">
+</a></td>
+
+
+
+<td><a href="12.jfif">
+  <img src="12.jfif"height="300"width="280" alt="12.jfif">
+</a></td>
+
+
+
+
+</tr>
+</table>
+
+
