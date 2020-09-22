@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<center><head>SIGNIN PAGE</head><center>
+
+
+
+<style>
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+</style>
+<body>
+
+
+
+<div>
+  <form>
+    
+
+
+    
+    <label for="EMAIL">EMAIL</label>
+    <input type="text"id="email"name="email"placeholder="your email..">
+
+    
+
+  
+      
+   
+     <label for="password">password</label>
+    <input type="password"id="password"name="password"placeholder="your password..">
+
+     
+  
+    <input type="submit" value="submit" onclick="C:\Users\HP\Desktop\test html\home page\mens.htm" />
+ 
+  </form>
+</div>
+
+</body>
+</html>

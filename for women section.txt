@@ -1,0 +1,150 @@
+<html>
+<head>
+
+<title>tzay</title>
+
+</head>
+
+<body>
+<p id="sourav"></p>
+
+<table style=width:100%>
+
+<tr>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 4000</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 3699</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 4866</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1256</a></th>
+
+</tr>
+
+<tr>
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w1.jfif"height="300"width="280" alt="w1.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w2.jfif"height="300"width="280" alt="w2.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w3.jfif"height="300"width="280" alt="w3.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w4.jfif"height="300"width="280" alt="w4.jfif">
+</a></td>
+
+</tr>
+<tr>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 4015</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 3689</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1526</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1269</a></th>
+</tr>
+
+<tr>
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w5.jfif"height="300"width="280" alt="w5.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w6.jfif"height="300"width="280" alt="w6.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w7.jfif"height="300"width="280" alt="w7.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w8.jfif"height="300"width="280" alt="w8.jfif">
+</a></td>
+
+
+
+
+</tr>
+
+<tr>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1245</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 789</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 685</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 685</a></th>
+</tr>
+
+<tr>
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w9.jfif"height="300"width="280" alt="w9.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w10.jfif"height="300"width="280" alt="w10.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w11.jfif"height="300"width="280" alt="w11.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w12.jfif"height="300"width="280" alt="w12.jfif">
+</a></td>
+</tr>
+<tr>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1999</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 2011</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 987</a></th>
+<th><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">buy now @ price rs 1065</a></th>
+</tr>
+
+<tr>
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w13.jfif"height="300"width="280" alt="w13.jfif">
+</a></td>
+
+ 
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w14.jfif"height="300"width="280" alt="w14.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w15.jfif"height="300"width="280" alt="w15.jfif">
+</a></td>
+
+
+
+<td><a href="file:///C:/Users/HP/Desktop/test%20html/home%20page/payment.htm">
+  <img src="w16.jfif"height="300"width="280" alt="w16.jfif">
+</a></td>
+
+
+
+
+</tr>
+</table>
+
+
